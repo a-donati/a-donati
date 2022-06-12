@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Angela 👩🏻‍💻</h1>
 <!-- <h3 align="center"> I'm Angela 👩🏻‍💻</h3> -->
 
-- 🌱 I’m currently studying to refine my skills as a full stack web developer
+- 🌱 I’m currently learning Java
 
 - 👯 I'm looking to collaborate on any projects related to web dev
 
