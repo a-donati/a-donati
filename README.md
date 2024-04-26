@@ -8,8 +8,6 @@
 - 💬  Feel free to reach out - (english, español)
  <br>
 
-<br>
-<h3 align="left"> Favorite quote:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
