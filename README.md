@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Angela 👩🏻‍💻</h1>
 <!-- <h3 align="center"> I'm Angela 👩🏻‍💻</h3> -->
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python
 
 - 👯 I'm looking to collaborate on any projects related to web dev
 
@@ -11,16 +11,6 @@
 <br>
 <h3 align="left"> Favorite quote:</h3>
 
-<p>“The meaning and purpose of a problem seem to lie not in its solution but in our working at it incessantly.”
-
-Carl Jung
-</p>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/angeladonati/" target="blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="angela donati linkedin" height="30" width="40" /></a>
-<a href="http://www.discordapp.com/users/mr.hashimoto#4183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
